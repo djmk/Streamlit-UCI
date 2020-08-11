@@ -9,7 +9,7 @@ I have given the option to manually fine tune few parameters such as `The number
 
 ## Look at few of the sample images of Web App:
 
-![Alt](images/image_1.png "Logistic Regression Results")
+![Logistic Regression Results](images/image_1.png "Logistic Regression Results")
 *Logistic Regression Results*
 ![SVM Results](images/image_2.png)
 *SVM Results*
