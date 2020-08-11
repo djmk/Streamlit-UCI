@@ -19,7 +19,9 @@ I have given the option to manually fine tune few parameters such as `The number
 #
 
 ## Requirements to run the code
-`All the necessary installation are given in requirements.txt file`
+`All the required library to run this code are given in the requirements.txt file`
 
 ## For running the code
 To run the code type `streamlit run heart.py` in your terminal. After that, a web will be opened in your default browser.
+
+`Play with it...Happy coding...`
