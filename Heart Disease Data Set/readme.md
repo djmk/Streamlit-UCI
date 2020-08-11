@@ -7,4 +7,6 @@ I have just used `Logistic Regression`, `SVM` and `Random Forest`. Futhermore, I
 
 I have given the option to manually fine tune few parameters such as `The number of trees in the forest` and `The maximum depth of the tree` in case of `Random Forest`. While, for `Logistic Regression` I gave the option of `Regularization parameter` and `Maximum number of iterations` and for `SVM`, I tried to fine tune `Regularization parameter` and `Kernel`. Play with these parameters to see which one work best for your dataset.
 
-## Look at few of the sample Images.
+## Look at few of the sample Images:
+
+![Logistic Regression Results](images/image_1.png)
