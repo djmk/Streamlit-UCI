@@ -10,8 +10,8 @@ I have given the option to manually fine tune few parameters such as `The number
 ## Look at few of the sample images of Web App:
 
 ![alt Logistic Regression Results](images/image_1.png "Logistic Regression Results")
-*Logistic Regression Results*
-![SVM Results](images/image_2.png)
-*SVM Results*
-![Random Forest Result](images/image_3.png)
-*Random Forest Result*
+
+![alt SVM Results](images/image_2.png)
+
+![alt Random Forest Result](images/image_3.png)
+
