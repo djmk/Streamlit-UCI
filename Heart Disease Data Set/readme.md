@@ -17,3 +17,9 @@ I have given the option to manually fine tune few parameters such as `The number
 
 ![Alt Random Forest Result](images/image_3.png)
 #
+
+## Requirements to run the code
+`All the necessary installation are given in requirements.txt file`
+
+## For running the code
+To run the code type `streamlit run heart.py` in your terminal. After that, a web will be opened in your default browser.
